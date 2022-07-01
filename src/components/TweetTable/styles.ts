@@ -11,3 +11,13 @@ export const TweetTable = styled.main`
     background-color: var(--shape);
 `;
 
+export const Buttons = styled.div`
+    //border: 1px solid magenta;
+    margin-left: clamp(100px, 20vw, 1000px );
+    margin-right: clamp(100px, 20vw, 1000px );
+    justify-content: center;
+    display: flex;
+    
+
+`;
+
